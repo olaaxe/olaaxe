@@ -1,6 +1,9 @@
 <h1 align="center">
   Olav Norum Axelsen
 </h1>
+</br>
+I am on my third year Computer engineering student at Oslomet University
+
 
 ## 🛠 Skills 
 Here is a quick summary of my main IT qualifications
@@ -10,8 +13,5 @@ I am profficient in **Java** and **C#**. I also have some experience in **Python
 ### Experience with Frameworks and Libraries
 I have experience using **React**, **.NET**, **SpringBoot**, **Android Studio**
   
-
-  * Programming Languages: [Python, Kotlin, Java, etc.]
-  * Frameworks & Libraries: [React, ASP.NET, etc.]
-  * Other Skills: [Database Management, UX Design, etc.]
+### 
 
